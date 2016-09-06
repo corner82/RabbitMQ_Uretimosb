@@ -1,0 +1,1020 @@
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Monday 15th of June 2015 09:27:36 PM
+Serial          : MD73-YN70-01PQ-97ET-LUZN-60YN
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Monday 15th of June 2015 09:27:47 PM
+Serial          : UQ57-ZW21-66IS-91RM-OFPY-49YA
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\slim\slim\Slim\Middleware\MiddlewareHMAC.php
+Hata Satırı     : 134
+Hata Açıklaması : Undefined index: HTTP_X_FORWARDED_FOR
+Zaman           : Monday 15th of June 2015 09:31:53 PM
+Serial          : FC01-AW83-40ND-47AJ-WTRP-62HT
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\slim\slim\Slim\Middleware\MiddlewareHMAC.php
+Hata Satırı     : 134
+Hata Açıklaması : Undefined index: HTTP_X_FORWARDED_FOR
+Zaman           : Monday 15th of June 2015 09:32:37 PM
+Serial          : JB22-DG42-66CZ-84DO-JHWK-34EN
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\slim\slim\Slim\Middleware\MiddlewareHMAC.php
+Hata Satırı     : 135
+Hata Açıklaması : Undefined index: HTTP_FORWARDED_FOR
+Zaman           : Monday 15th of June 2015 09:32:59 PM
+Serial          : LT33-PG28-57HN-24GH-JBMR-08UP
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\slim\slim\Slim\Middleware\MiddlewareHMAC.php
+Hata Satırı     : 136
+Hata Açıklaması : Undefined index: HTTP_FORWARDED
+Zaman           : Monday 15th of June 2015 09:33:15 PM
+Serial          : TL55-RD65-35KZ-90QV-BISP-65LG
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\slim\slim\Slim\Middleware\MiddlewareHMAC.php
+Hata Satırı     : 137
+Hata Açıklaması : Undefined index: HTTP_FORWARDED
+Zaman           : Monday 15th of June 2015 09:33:38 PM
+Serial          : NJ22-OC85-44RQ-36OL-SIWM-78JS
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\slim\slim\Slim\Middleware\MiddlewareHMAC.php
+Hata Satırı     : 137
+Hata Açıklaması : Undefined index: HTTP_FORWARDED
+Zaman           : Monday 15th of June 2015 09:37:13 PM
+Serial          : ZU45-NL00-05IR-42GI-OIDN-39VF
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\slim\slim\Slim\Middleware\MiddlewareHMAC.php
+Hata Satırı     : 137
+Hata Açıklaması : Undefined index: HTTP_FORWARDED
+Zaman           : Monday 15th of June 2015 09:38:06 PM
+Serial          : KY68-WK44-21QL-72ZU-XOVA-72BA
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\slim\slim\Slim\Middleware\MiddlewareHMAC.php
+Hata Satırı     : 137
+Hata Açıklaması : Undefined index: HTTP_FORWARDED
+Zaman           : Monday 15th of June 2015 09:54:02 PM
+Serial          : BC93-TG48-44WD-38ZB-YHEE-39IK
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Monday 15th of June 2015 09:54:45 PM
+Serial          : EM72-ME25-97FZ-53NK-YULG-22VO
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Monday 15th of June 2015 09:58:12 PM
+Serial          : ZJ07-HN08-72ZH-59UA-DGVN-63XU
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Monday 15th of June 2015 10:00:15 PM
+Serial          : TA32-LL09-33JG-69CE-UYPF-96SI
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Monday 15th of June 2015 10:01:22 PM
+Serial          : TQ79-FG60-91RD-05SE-EEBP-32OK
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Monday 15th of June 2015 10:02:37 PM
+Serial          : EN60-UD04-79DF-19UF-NCJX-04RH
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Tuesday 16th of June 2015 02:25:57 PM
+Serial          : JW08-LL34-99ZT-95RO-BBWK-36IF
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Tuesday 16th of June 2015 02:29:56 PM
+Serial          : MZ45-LI02-84MX-94PL-CFTH-58TM
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Tuesday 16th of June 2015 02:30:17 PM
+Serial          : UB94-AC21-76WA-10UD-VXGX-74EH
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Tuesday 16th of June 2015 02:59:22 PM
+Serial          : PK87-LZ12-99LI-04MX-MISK-36XW
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Tuesday 16th of June 2015 02:59:41 PM
+Serial          : CF47-YG19-44JB-70ZY-KSHD-47DO
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Tuesday 16th of June 2015 03:22:25 PM
+Serial          : FL15-WY23-38DH-93QG-BGBT-97IT
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Tuesday 16th of June 2015 03:28:50 PM
+Serial          : AM76-OU05-02VX-52SO-UJDC-78XK
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Tuesday 16th of June 2015 03:36:07 PM
+Serial          : BN40-VM48-64KL-57CS-EZWD-64OR
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Tuesday 16th of June 2015 08:51:32 PM
+Serial          : TP40-CO54-66HZ-91AQ-KASD-65XM
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Tuesday 16th of June 2015 09:26:57 PM
+Serial          : HV26-SZ31-58QG-14HQ-PIAT-37CL
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Tuesday 16th of June 2015 09:27:21 PM
+Serial          : ID29-AS63-49ZS-90OA-POBP-85RI
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 09:15:57 AM
+Serial          : ZT39-EA80-47NL-46RS-EWFU-22LD
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 09:16:56 AM
+Serial          : TY27-HS90-97JB-37XG-PXIN-20BK
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 09:19:32 AM
+Serial          : IH88-PK12-05UT-25AS-IOTB-92HI
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 09:21:42 AM
+Serial          : BZ54-II89-95YT-34HI-RCRR-53LF
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:07:01 AM
+Serial          : BH49-VT03-89DI-84YK-VSJO-43TG
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:08:11 AM
+Serial          : RL94-GX25-18PR-10GE-CSCA-75LS
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:09:36 AM
+Serial          : DT12-XB50-07OC-33LV-RICH-72UX
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:10:19 AM
+Serial          : RK46-AM39-86IU-77VS-WVPP-77AZ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:10:58 AM
+Serial          : OR97-VJ64-69DB-62OZ-WLXF-92KG
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:11:56 AM
+Serial          : AV90-PZ99-89ED-23ZZ-ZKFK-69FY
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:13:02 AM
+Serial          : IC85-PP36-57TH-70HW-LZUJ-01QI
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:13:48 AM
+Serial          : SS66-AM27-16CS-58SY-LLXK-30ZQ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:14:39 AM
+Serial          : KZ75-FV65-79MS-78PL-HAUT-90LC
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:15:03 AM
+Serial          : SB44-IY02-78DM-74CQ-GZSR-91IA
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:15:59 AM
+Serial          : WH86-QA51-35II-66MT-NNWJ-68WP
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:24:19 AM
+Serial          : CX24-LJ44-74GM-79AB-KYPC-32HD
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:24:52 AM
+Serial          : RD90-YE04-37GF-34ZU-CMBE-26WV
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:25:45 AM
+Serial          : UF27-KT43-15MS-63OE-XKOU-53VZ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:26:39 AM
+Serial          : UK27-CI05-53GH-81BN-AYIF-64MU
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:31:36 AM
+Serial          : WZ22-FD00-81UE-38RB-SIQR-63ZN
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:33:10 AM
+Serial          : GD55-BK72-13JP-27SZ-HVSL-92RL
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:37:27 AM
+Serial          : GF49-WL34-82EV-82KQ-XSUU-63SV
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:37:40 AM
+Serial          : CJ06-XM07-19OC-44ZE-WFEY-09LV
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:38:59 AM
+Serial          : ZX68-JT15-27RR-26SX-LOBD-43BU
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:39:51 AM
+Serial          : GB59-ON89-49VV-50WB-VBTQ-96VY
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:42:41 AM
+Serial          : CB90-SA43-97HU-49QX-HXLR-02ZN
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:43:17 AM
+Serial          : TF14-CN28-14FU-46IS-CJKN-73UT
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:43:28 AM
+Serial          : NS33-XH48-02YC-52DQ-NRWL-41NY
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 10:44:29 AM
+Serial          : PV81-LN34-13SZ-11JA-TDDR-49JI
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 11:10:07 AM
+Serial          : HV89-YM00-41TQ-45GC-BYKL-89QC
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 11:10:40 AM
+Serial          : UX60-QL98-48HJ-77AC-SKZA-95NO
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 11:14:27 AM
+Serial          : IM52-SJ19-17YZ-22GW-BCXO-21HO
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 11:15:42 AM
+Serial          : WL17-OV07-34OJ-80FD-FXUB-96QO
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 11:16:46 AM
+Serial          : FN56-PG97-10SU-46CJ-SHYJ-46QG
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 185
+Hata Açıklaması : fopen() expects at least 2 parameters, 1 given
+Zaman           : Wednesday 17th of June 2015 11:17:01 AM
+Serial          : RY90-CY31-77QO-32CT-UOPS-84NW
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:15:06 PM
+Serial          : BC95-GC25-84FU-58AS-ILOJ-80FD
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:16:37 PM
+Serial          : FX70-ZQ65-25PQ-52ZS-DBSU-46CJ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:16:50 PM
+Serial          : SH93-KQ62-69ZA-19JD-UUQO-32CT
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:16:53 PM
+Serial          : UO67-VK58-40RF-30KF-NXOW-60NO
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:18:04 PM
+Serial          : SY03-LD56-89WM-50IG-OPUY-64OB
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:19:37 PM
+Serial          : SS55-MD08-09WA-99KL-FEND-54NN
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:20:32 PM
+Serial          : BB25-HQ17-33WD-70XC-SWAP-75QD
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:23:23 PM
+Serial          : AH56-AW06-94DB-37AK-HYOP-38DE
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:25:42 PM
+Serial          : TR50-ZB26-13YB-80AQ-EQJL-76HW
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:29:11 PM
+Serial          : NH18-PH42-78ZR-41DW-QRPF-76ON
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:29:16 PM
+Serial          : ZI47-KK44-03NB-76PY-BLUY-93VL
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:31:20 PM
+Serial          : IU69-HO65-96CK-29PI-JXFO-26OS
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:32:31 PM
+Serial          : EM61-BL24-20IW-41NE-FHWN-24AS
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 556
+Hata Açıklaması : Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for test
+Zaman           : Friday 6th of November 2015 01:33:33 PM
+Serial          : XB08-CC58-00RR-78XF-LBKQ-05TR
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\Config.php
+Hata Satırı     : 66
+Hata Açıklaması : Undefined index: invokables
+Zaman           : Friday 6th of November 2015 01:34:45 PM
+Serial          : UV05-QV89-80IC-34AT-JOAC-82XW
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\Config.php
+Hata Satırı     : 129
+Hata Açıklaması : Array to string conversion
+Zaman           : Friday 6th of November 2015 01:37:14 PM
+Serial          : CA82-YW30-72OK-31BB-EYYF-97UP
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\Config.php
+Hata Satırı     : 130
+Hata Açıklaması : Array to string conversion
+Zaman           : Friday 6th of November 2015 01:38:45 PM
+Serial          : AX74-HL24-08QV-20II-DNME-52QA
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\Config.php
+Hata Satırı     : 130
+Hata Açıklaması : Array to string conversion
+Zaman           : Friday 6th of November 2015 01:42:16 PM
+Serial          : GE16-XI73-35IR-48NJ-KQKQ-29PF
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\Config.php
+Hata Satırı     : 67
+Hata Açıklaması : Array to string conversion
+Zaman           : Friday 6th of November 2015 01:42:56 PM
+Serial          : EF13-DL76-40IK-80PJ-WWQS-25ZD
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 1101
+Hata Açıklaması : While attempting to create pgconnectfactory(alias: pgConnectFactory) an invalid factory was registered for this instance type.
+Zaman           : Monday 9th of November 2015 10:35:55 AM
+Serial          : ZE37-XH55-72LY-19JW-ZGBQ-60RB
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 1101
+Hata Açıklaması : While attempting to create pgconnectfactory(alias: pgConnectFactory) an invalid factory was registered for this instance type.
+Zaman           : Monday 9th of November 2015 10:36:03 AM
+Serial          : TI43-TK08-32EO-23GS-QIHV-26SZ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 1101
+Hata Açıklaması : While attempting to create pgconnectfactory(alias: pgConnectFactory) an invalid factory was registered for this instance type.
+Zaman           : Monday 9th of November 2015 10:39:01 AM
+Serial          : NL51-PJ38-08EK-45IJ-YRRT-00NY
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:24:44 PM
+Serial          : FU99-MZ18-70KO-46BM-WZZP-48LI
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:26:42 PM
+Serial          : BB74-TE69-58VN-82QV-RYSH-40HS
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:26:47 PM
+Serial          : DB15-GE34-79VY-04RU-FIPJ-66WL
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 1101
+Hata Açıklaması : While attempting to create reportconfiguration(alias: reportConfiguration) an invalid factory was registered for this instance type.
+Zaman           : Monday 9th of November 2015 02:28:20 PM
+Serial          : DA02-QN76-31QP-64XE-JLBF-84FW
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:31:25 PM
+Serial          : ZO98-BE44-93FJ-93IU-YKLK-28PM
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:36:16 PM
+Serial          : HA14-RN72-77IB-97BU-IFTV-21OZ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:36:19 PM
+Serial          : UF25-HL94-84OA-83CB-GTKY-57QN
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:39:02 PM
+Serial          : UV71-RR28-33LY-80CN-WMPZ-48UH
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:39:56 PM
+Serial          : HK84-UG86-15QX-64ZG-QSHD-35LN
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:41:05 PM
+Serial          : IS68-SJ91-02OU-45IW-PCQT-49HL
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:41:14 PM
+Serial          : PZ64-GI56-96KP-73YG-GYPA-57EY
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:42:32 PM
+Serial          : IN04-PK94-91JP-59CR-WOLG-01IF
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:42:39 PM
+Serial          : JR69-KY48-66PJ-23UT-MFGW-48RB
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:42:43 PM
+Serial          : OF31-TA85-53OD-97CC-JKTJ-78EH
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:43:15 PM
+Serial          : QY54-WR40-92ZA-87AL-FCXU-13LZ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:43:15 PM
+Serial          : DN04-TT39-80BO-20XT-NSEH-57ON
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:43:16 PM
+Serial          : KC10-HN18-36ED-66BR-UFDA-86HC
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:43:20 PM
+Serial          : NP83-UI58-35YZ-14TT-VUHP-57MM
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:47:41 PM
+Serial          : HG05-QA43-84CA-06VK-SLXA-00GU
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:48:20 PM
+Serial          : QA12-MT53-29QM-06JS-MVCL-55PR
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:48:48 PM
+Serial          : YO29-RC80-48VP-20ZN-RLQH-82RW
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 02:49:33 PM
+Serial          : LC47-LH78-55XR-60WE-POWV-22VP
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 03:01:44 PM
+Serial          : GB65-XY00-97RC-57LS-GNRJ-13FA
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 946
+Hata Açıklaması : An exception was raised while creating "reportConfiguration"; no instance returned
+Zaman           : Monday 9th of November 2015 03:05:22 PM
+Serial          : QF51-BD94-04GI-72JS-UKQA-10XH
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : DAL\DalManager::get was unable to fetch or create an instance for reportConfiguration
+Zaman           : Tuesday 10th of November 2015 02:40:18 PM
+Serial          : EZ12-NG68-73LG-57AP-HCJM-48XA
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 555
+Hata Açıklaması : DAL\DalManager::get was unable to fetch or create an instance for slimmApp
+Zaman           : Tuesday 10th of November 2015 03:32:49 PM
+Serial          : TW07-WW10-34MI-88OT-PBHX-33FW
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\bll\BLLManager.php
+Hata Satırı     : 34
+Hata Açıklaması : Undefined variable: instnace
+Zaman           : Tuesday 10th of November 2015 04:33:02 PM
+Serial          : YI83-KT90-06ZN-09VI-EYYP-64HX
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\bll\BLLManager.php
+Hata Satırı     : 34
+Hata Açıklaması : Undefined variable: instnace
+Zaman           : Tuesday 10th of November 2015 04:34:06 PM
+Serial          : DY33-XC14-63AL-55BV-LBRS-46WR
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\bll\BLLManager.php
+Hata Satırı     : 34
+Hata Açıklaması : Undefined variable: instnace
+Zaman           : Tuesday 10th of November 2015 04:35:41 PM
+Serial          : AE40-FN70-83RW-37PJ-THFX-41SG
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\bll\BLLManager.php
+Hata Satırı     : 34
+Hata Açıklaması : Undefined variable: instnace
+Zaman           : Tuesday 10th of November 2015 04:35:45 PM
+Serial          : NT88-JJ74-95EN-72KU-SHDR-35OY
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\bll\BLLManager.php
+Hata Satırı     : 34
+Hata Açıklaması : Undefined variable: instnace
+Zaman           : Tuesday 10th of November 2015 04:38:13 PM
+Serial          : NC28-AH08-70PR-81ZU-ZYRJ-52OZ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 55
+Hata Açıklaması : Undefined variable: app
+Zaman           : Wednesday 18th of November 2015 03:36:36 PM
+Serial          : SG98-HD17-81MZ-40OW-NTSF-09OK
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 11:43:27 AM
+Serial          : WQ27-FJ68-71IY-17SM-IKOM-07GJ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 11:43:36 AM
+Serial          : ZP07-WM42-81JH-19YC-TATJ-97WI
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 11:43:41 AM
+Serial          : NA97-XL97-88PE-88YD-PKOK-48OE
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 12:06:16 PM
+Serial          : WD95-XI15-25CG-22YZ-SJGM-03DX
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 12:07:51 PM
+Serial          : AH29-BN59-90RP-03UA-DLKZ-67RS
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 12:09:01 PM
+Serial          : KF15-ND82-59MG-92FQ-OVPF-62TE
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 12:09:19 PM
+Serial          : DO22-IC26-08EB-63HT-BPDL-59UI
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 12:11:33 PM
+Serial          : YB15-LN78-68MY-85MW-WNIK-12DT
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 01:37:49 PM
+Serial          : MU46-FN43-14PM-70CI-RFNP-44YN
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 01:37:56 PM
+Serial          : YF50-AC77-67KV-66BH-CLQS-75QE
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 01:38:04 PM
+Serial          : RC59-BE28-42VP-06DZ-HBNN-36VE
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 01:39:57 PM
+Serial          : SC52-GV27-05RY-57AF-OIWE-38GC
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 151
+Hata Açıklaması : Array to string conversion
+Zaman           : Monday 30th of November 2015 03:10:57 PM
+Serial          : TJ48-XY52-10SP-82BZ-YJFD-69GI
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\bll\bll\ReportConfiguration.php
+Hata Satırı     : 28
+Hata Açıklaması : Use of undefined constant id - assumed 'id'
+Zaman           : Monday 30th of November 2015 03:28:54 PM
+Serial          : PG87-AM51-07SV-05PC-XWUR-81JT
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\bll\bll\ReportConfiguration.php
+Hata Satırı     : 38
+Hata Açıklaması : Undefined variable: id
+Zaman           : Monday 30th of November 2015 04:20:44 PM
+Serial          : KV03-VU35-63RE-20ZM-NSWD-79LI
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\bll\bll\ReportConfiguration.php
+Hata Satırı     : 43
+Hata Açıklaması : Undefined variable: resultset
+Zaman           : Monday 30th of November 2015 04:23:05 PM
+Serial          : VX83-CG30-88XV-51PW-AFZV-53FA
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:27:25 PM
+Serial          : FV28-AK15-72RW-62TF-JQVU-13YC
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:27:43 PM
+Serial          : US43-KO40-72JH-06DS-BAGK-92RY
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:41:02 PM
+Serial          : RQ30-HF26-95JS-93UV-BDYB-36TA
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:42:20 PM
+Serial          : RF78-ES89-64NS-13TM-PTAM-13IG
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:42:44 PM
+Serial          : UE39-CU74-34OM-07GJ-HBQD-70AG
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:42:54 PM
+Serial          : OV54-ED58-55PX-50GH-MAOG-25FN
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:43:35 PM
+Serial          : HZ82-XB13-32HZ-27OG-ANAT-28EO
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:45:03 PM
+Serial          : DR92-MG70-44RI-75CJ-RMBR-85YJ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:46:24 PM
+Serial          : LG35-HJ36-58YZ-83JB-GCOU-48VS
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:46:32 PM
+Serial          : QW50-AL14-55QQ-50XD-PFLB-09GB
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:49:35 PM
+Serial          : LO71-DY90-83HR-77UT-NLVI-41MZ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:51:31 PM
+Serial          : GL18-DY75-71XB-47LB-XHXQ-24GJ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:51:37 PM
+Serial          : HR93-GT82-70RA-13EI-ABXH-70VM
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:51:43 PM
+Serial          : PB55-UI66-12MB-73UB-BUVM-91HQ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:51:50 PM
+Serial          : KN36-AH26-37AR-80AR-KSYZ-69AJ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:53:43 PM
+Serial          : TS91-CY27-94XO-83BH-PELK-70HR
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:54:26 PM
+Serial          : IR34-SA66-97FM-38AX-DAXG-53BH
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:54:49 PM
+Serial          : SI14-ZE45-44SV-41CH-ZBIF-51RL
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:56:56 PM
+Serial          : DA19-GF16-30RM-02EU-LBNP-11ZJ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 05:58:40 PM
+Serial          : CS23-RM34-06OG-71BP-QUQW-25LW
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 06:00:01 PM
+Serial          : PZ29-BG29-69FF-81HP-PLFM-39FQ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 06:02:47 PM
+Serial          : EG94-KK87-00IV-62VQ-DPAM-92BE
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 06:03:00 PM
+Serial          : FS40-GO11-38DR-12QA-QCME-50AP
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 06:13:49 PM
+Serial          : PM66-HZ91-06KA-71QN-XMXN-52WI
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 06:16:09 PM
+Serial          : AR88-LG43-10XS-27ZH-BHXY-64JZ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 06:19:11 PM
+Serial          : KF62-JF31-05TK-27OL-PZBD-08WT
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 06:20:09 PM
+Serial          : XZ64-QA31-27LG-69QB-HMDK-10SR
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 06:26:15 PM
+Serial          : RZ77-EZ44-89GO-41PE-GMOY-82NW
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-servicemanager\src\ServiceManager.php
+Hata Satırı     : 945
+Hata Açıklaması : An exception was raised while creating "reportConfigurationPDO"; no instance returned
+Zaman           : Monday 30th of November 2015 06:27:46 PM
+Serial          : OJ45-AC91-53UG-73OX-YDFR-79ET
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\dal\pdo\ReportConfiguration.php
+Hata Satırı     : 333
+Hata Açıklaması : Undefined variable: debugSQLParams
+Zaman           : Monday 30th of November 2015 06:39:10 PM
+Serial          : LO71-DY90-83HR-77UT-NLVI-41MZ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\dal\pdo\ReportConfiguration.php
+Hata Satırı     : 319
+Hata Açıklaması : PDOStatement::bindValue(): SQLSTATE[HY093]: Invalid parameter number: :limit
+Zaman           : Monday 30th of November 2015 06:55:59 PM
+Serial          : KI34-TG51-10OX-76EL-JHYU-28WN
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\dal\pdo\ReportConfiguration.php
+Hata Satırı     : 328
+Hata Açıklaması : Undefined variable: result
+Zaman           : Monday 30th of November 2015 06:59:15 PM
+Serial          : YR02-GB86-24YJ-16JW-OEOJ-86NJ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 163
+Hata Açıklaması : Undefined variable: BLL
+Zaman           : Tuesday 1st of December 2015 11:24:35 AM
+Serial          : HL56-VB53-07XG-12OA-XXAT-46FA
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 163
+Hata Açıklaması : Undefined variable: BLL
+Zaman           : Tuesday 1st of December 2015 11:24:42 AM
+Serial          : ZM79-QJ64-20HQ-35ZH-YOKU-41TZ
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 163
+Hata Açıklaması : Undefined variable: BLL
+Zaman           : Tuesday 1st of December 2015 11:24:46 AM
+Serial          : TW81-KW72-37GN-15QW-RVNO-47FN
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 147
+Hata Açıklaması : Undefined variable: resDataGrid
+Zaman           : Tuesday 1st of December 2015 03:08:52 PM
+Serial          : BO11-ZW32-85BI-72ZT-YYKI-53ZL
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 147
+Hata Açıklaması : Undefined variable: resDataGrid
+Zaman           : Tuesday 1st of December 2015 03:08:59 PM
+Serial          : ZL56-LJ78-76WP-26XF-WJMJ-83RH
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\index.php
+Hata Satırı     : 94
+Hata Açıklaması : Undefined variable: filterChain
+Zaman           : Thursday 3rd of December 2015 11:07:05 AM
+Serial          : FF58-IM03-67NU-71GZ-MIAG-43YL
+---------------------------------------------------
+Hata Dosyası    : C:\xampp\htdocs\slim_test\vendor\zendframework\zend-filter\src\PregReplace.php
+Hata Satırı     : 141
+Hata Açıklaması : preg_replace(): No ending delimiter '/' found
+Zaman           : Thursday 3rd of December 2015 11:24:40 AM
+Serial          : EX38-HL15-37TX-90JT-XSSL-89AU
+---------------------------------------------------

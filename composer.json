@@ -1,0 +1,7 @@
+{
+  "require": {
+      "videlalvaro/php-amqplib": "2.2.*",
+      "zendframework/zend-servicemanager": "2.*",
+      "panique/pdo-debug": "0.1"
+  }
+}
